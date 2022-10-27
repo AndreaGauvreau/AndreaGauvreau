@@ -13,14 +13,14 @@ Ceo de Teachizi et developpeur React.<br><br>
 <ul><li>La musique</li>
 <li>Le coding</li>
 <li>La photographie</li></ul>
-<br>
-
 <h3>Portfolio</h3>
 Voici mes dernières réalisations : 
 <br>- teachizi.hu
 <br>- ducotedelyon.fr
 <br>
 À bientôt !
+<br>
+![GHstats](https://github-readme-stats.vercel.app/api?username=AndreaGauvreau&show_icons=true&theme=radical)
 <!--
 **AndreaGauvreau/AndreaGauvreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
