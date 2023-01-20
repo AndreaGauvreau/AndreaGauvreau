@@ -2,11 +2,10 @@
 Vous vous êtes égaré sur le bon profil ! Merci à vous pour votre visite 🫡
 <h2>Commençons les présentations !</H2>
 Je suis Andréa Gauvreau,<br>
-Ceo de Teachizi et developpeur React.<br><br>
+Co-fondateur de Teachizi et developpeur FrontEnd.<br><br>
 
 
 - 🔭 Je travaille actuellement sur un LMS et une plateforme de mise en relation entre professeur et élève
-- 🌱 J'apprend actuellement REACT
 - 📫 Vous pouvez me contacter par mail : andrea@teachizi.fr
 
 <h3>J'ai 3 grandes passions :</h3>
@@ -16,7 +15,7 @@ Ceo de Teachizi et developpeur React.<br><br>
 <h3>Portfolio</h3>
 Voici mes dernières réalisations : 
 <br>- teachizi.hu
-<br>- ducotedelyon.fr
+<br>- formizi.com
 <br>
 <h4>À bientôt !</H4>
 
